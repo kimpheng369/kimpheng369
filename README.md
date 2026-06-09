@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋 I'm Pheng
 
-<!--
-**kimpheng369/kimpheng369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | Android Developer | Backend Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Studying Software Development at IT STEP Academy (Phnom Penh)
+- 🧠 Strong in programming, especially backend & app development
+- ☁️ Learning AWS Cloud (bonus skill)
+- 🏆 Top student in class
+
+---
+
+## 🛠️ Tech Stack
+- Languages: Java, Kotlin, Python
+- Mobile: Android (MVVM, ViewModel, Room)
+- Backend: Django, REST API
+- Cloud: AWS (Basics)
+
+---
+
+## 📌 Projects
+- 📱 Student Management App (CRUD + MVVM)
+- 🌐 Django Blog System
+- 🔐 Login System with JWT
+
+---
+
+## 📊 GitHub Stats
+(Add GitHub stats card)
+
+---
+
+## 📫 Contact
+- Email: your email
+- LinkedIn: your link
