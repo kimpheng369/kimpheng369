@@ -12,6 +12,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHBzd3Jqc285Zms0eGZtazdyc3duZ3FseThtMXZtMWF2Yjl3Y2xrZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/macjcRaL1sCJjBTVGw/giphy.gif"  />
+
+###
+
 <p align="left">I am a Software Development student passionate about building real-world applications and continuously improving my programming skills. I specialize in Android development and backend systems, and I enjoy turning ideas into functional and efficient software.<br><br>Currently, I am studying at IT STEP Academy in Phnom Penh, where I focus on strengthening my knowledge in software engineering principles, clean code, and modern development practices. I also explore AWS Cloud as a bonus skill to expand my understanding of cloud technologies.<br><br>I consider myself a disciplined and goal-oriented learner, always pushing myself to improve step by step. My mindset is focused on consistency, growth, and building a strong foundation as a future software engineer.</p>
 
 ###
@@ -19,11 +25,11 @@
 <br clear="both">
 
 <div align="center">
-  <a href="728891524837801994" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="discordapp.com/users/728891524837801994" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
   <a href="hakkimpheng12@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
 
@@ -67,11 +73,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kimpheng369/kimpheng369/pacman-output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kimpheng369/kimpheng369/pacman-output/bomberman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kimpheng369/kimpheng369/pacman-output/bomberman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/kimpheng369/kimpheng369/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
