@@ -64,11 +64,6 @@ I consider myself a disciplined and goal-oriented learner, always pushing myself
 </p>
 
 ---
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kimpheng369/kimpheng369/output/github-contribution-grid-snake.svg" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kimpheng369&color=blue"/>
