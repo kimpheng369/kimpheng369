@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pheng</h1>
+<h1 align="center">Hey Howdy! 👋, I'm Hak Kimpheng</h1>
 
 <p align="center">
   💻 Software Developer <br>
