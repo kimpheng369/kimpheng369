@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pheng</h1>
 
 <p align="center">
-  💻 Software Developer | Android & Backend Developer <br>
+  💻 Software Developer <br>
   🚀 Building real-world apps with discipline and consistency
 </p>
 
